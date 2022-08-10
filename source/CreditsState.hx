@@ -32,7 +32,7 @@ class CreditsState extends MusicBeatState
 	[''],
         ['BS Engine Remake team'],
         ['John',                         'john'                'Diretora do projeto e ajudou um pouco no source',             'https://youtube.com/channel/UCSMUOgYRTAm-d8aEfzeBLwg', '0xFFFFDD33'],
-        ['']
+        [''],
 	['ovo traduzi o resto nao kek'],
 	['Psych Engine'],
 	['Shadow Mario',		'shadowmario',          'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
